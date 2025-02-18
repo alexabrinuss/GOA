@@ -4,4 +4,4 @@ user = str(input ("enter number:"))
 number = 16
 while user == number:
     print(user)
-print(user)
+
